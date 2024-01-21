@@ -1,0 +1,153 @@
+[
+  {
+    "ItemName": "Nestle Cheerios honey (390g)",
+    "Description": "A touch of honey for breakfast. Crunchy Os with the irresistable taste of golden honey.",
+    "Image": "https://raw.githubusercontent.com/fayaz-09/ShopAppResource/main/CheeriosHoney.png",
+    "Category": "Cereal",
+    "Price": 3.50,
+    "InStock": true,
+    "OnSale": false,
+    "Discount": 0.0
+  },
+  {
+    "ItemName": "Nestle Cheerios multigrain (390g)",
+    "Description": "Little Os, Happy Days. Discover the little wonders that your breakfast hoops contain! Our crunchy little Os are made with 3 wholegrains, 7 vitamins, calcium and iron and no artificial colours or flavours.",
+    "Image": "https://raw.githubusercontent.com/fayaz-09/ShopAppResource/main/CheeriosMultigrain.png",
+    "Category": "Cereal",
+    "Price": 3.30,
+    "InStock": true,
+    "OnSale": false,
+    "Discount": 0.0
+  },
+  {
+    "ItemName": "Kellog's Rice Krispies (430g)",
+    "Description": "Toasted Rice Cereal Fortified with Vitamins and Iron. Enjoy as part of a varied & balanced diet and a healthy lifestyle.",
+    "Image": "https://raw.githubusercontent.com/fayaz-09/ShopAppResource/main/RiceCrisp.jpeg",
+    "Category": "Cereal",
+    "Price": 3.30,
+    "InStock": true,
+    "OnSale": false,
+    "Discount": 0.0
+  },
+  {
+    "ItemName": "Weetabix 24 pack",
+    "Description": "Whole Wheat Cereal with Added Vitamins & Iron. 24 Biscuits. Want to Enjoy a Healthy Start? Weetabix is packed with 100% wholegrain goodness and is high in fibre. Top it with natural yoghurt, a drizzle of honey and some fresh strawberries, which are an excellent source of vitamin C. There's no better way to start your day!",
+    "Image": "https://raw.githubusercontent.com/fayaz-09/ShopAppResource/main/weetabix.jpg",
+    "Category": "Cereal",
+    "Price": 3.30,
+    "InStock": true,
+    "OnSale": true,
+    "Discount": 0.50
+  },
+  {
+    "ItemName": "Whole milk 4 pint",
+    "Description": "Pasteurised standardised homogenised whole milk. Milk from British Farms",
+    "Image": "https://raw.githubusercontent.com/fayaz-09/ShopAppResource/main/wholeMilk.jpg",
+    "Category": "Milk",
+    "Price": 2.90,
+    "InStock": true,
+    "OnSale": false,
+    "Discount": 0.0
+  },
+  {
+    "ItemName": "Semi skimmed milk 4 pint",
+    "Description": "Pasteurised homogenised semi skimmed milk. Milk from British Farms",
+    "Image": "https://raw.githubusercontent.com/fayaz-09/ShopAppResource/main/semiMilk.jpg",
+    "Category": "Milk",
+    "Price": 1.90,
+    "InStock": true,
+    "OnSale": false,
+    "Discount": 0.0
+  },
+  {
+    "ItemName": "Walkers Cheese & Onion Multipack Crisps 12x25g",
+    "Description": "Cheese & Onion Flavour Potato Crisps - Multipack of Walkers Cheese and Onion crisps - Made with 100% Great British Potatoes - Fresh taste guaranteed - Perfect crisps for lunch and snacking - Multipack contains 12 bags of crisps - Suitable for vegetarians",
+    "Image": "https://raw.githubusercontent.com/fayaz-09/ShopAppResource/main/walkCheese.jpg",
+    "Category": "Crisps",
+    "Price": 3.20,
+    "InStock": true,
+    "OnSale": true,
+    "Discount": 0.40
+  },
+  {
+    "ItemName": "Pringles Original Crisps 165g",
+    "Description": "A classic flavour for a classic crisp, Pringles Original crisps, with their iconic appearance and instantly recognisable shape. These delectable crisps are perfect for any party, get together, or afternoon snack. Enjoy the unique texture and the light, crisp, salty taste. Enjoy a mind popping experience with Pringles Original crisps.",
+    "Image": "https://raw.githubusercontent.com/fayaz-09/ShopAppResource/main/pringles.jpg",
+    "Category": "Crisps",
+    "Price": 1.95,
+    "InStock": true,
+    "OnSale": true,
+    "Discount": 0.25
+  },
+  {
+    "ItemName": "Hula Hoops Variety Crisps Multipack 12X24g",
+    "Description": "Original Salted Potato Rings. The Original Hula Hoop. Deliciously Crunchy in Our Classic Tasty Flavours.",
+    "Image": "https://raw.githubusercontent.com/fayaz-09/ShopAppResource/main/hula.jpg",
+    "Category": "Crisps",
+    "Price": 3.45,
+    "InStock": false,
+    "OnSale": false,
+    "Discount": 0.0
+  },
+  {
+    "ItemName": "Cadbury Dairy Milk Chocolate Bar 4 Pack Multipack 134g",
+    "Description": "Milk chocolate. The one. The only. Made with a glass and a half of fresh milk from the British Isles and Ireland, for the classic, creamy taste that’s unmistakably Cadbury.",
+    "Image": "https://raw.githubusercontent.com/fayaz-09/ShopAppResource/main/dairyMilk.jpg",
+    "Category": "Chocolate",
+    "Price": 1.55,
+    "InStock": true,
+    "OnSale": true,
+    "Discount": 0.15
+  },
+  {
+    "ItemName": "Kinder Mini Treats 16 Pack 200G",
+    "Description": "Fine milk chocolate with a milky filling. Each bar of Kinder Chocolate contains a delicious milky filling covered with a fine milk chocolate coating. The taste kids love in child friendly portions!",
+    "Image": "https://raw.githubusercontent.com/fayaz-09/ShopAppResource/main/kinder.jpg",
+    "Category": "Chocolate",
+    "Price": 2.75,
+    "InStock": true,
+    "OnSale": true,
+    "Discount": 0.35
+  },
+  {
+    "ItemName": "Gala Apple 6 Pack",
+    "Description": "Sweet & Juicy Hand picked apples. Pack of 6 apples of the highest standard with a sweet and juicy flavour.",
+    "Image": "https://raw.githubusercontent.com/fayaz-09/ShopAppResource/main/galaApple.jpg",
+    "Category": "Fruit",
+    "Price": 1.75,
+    "InStock": true,
+    "OnSale": false,
+    "Discount": 0.0
+  },
+  {
+    "ItemName": "6 Bananas Loose",
+    "Description": "Banana. Responsibly Grown. Hand picked and gently ripened with a sweet flavour.",
+    "Image": "https://raw.githubusercontent.com/fayaz-09/ShopAppResource/main/banana.jpg",
+    "Category": "Fruit",
+    "Price": 0.95,
+    "InStock": true,
+    "OnSale": false,
+    "Discount": 0.0
+  },
+  {
+    "ItemName": "Red Seedless Grapes 500G",
+    "Description": "Red seedless grapes. Hand Picked Carefully grown in vineyards for a juicy burst of refreshing sweetness.",
+    "Image": "https://raw.githubusercontent.com/fayaz-09/ShopAppResource/main/redGrapes.jpg",
+    "Category": "Fruit",
+    "Price": 1.95,
+    "InStock": true,
+    "OnSale": true,
+    "Discount": 0.10
+  },
+  {
+    "ItemName": "Green Seedless Grapes Pack 500G",
+    "Description": "Green seedless grapes. Hand Picked Carefully grown in vineyards for a juicy burst of refreshing sweetness.",
+    "Image": "https://raw.githubusercontent.com/fayaz-09/ShopAppResource/main/green-grapes.png",
+    "Category": "Fruit",
+    "Price": 1.80,
+    "InStock": true,
+    "OnSale": true,
+    "Discount": 0.10
+  }
+]
+
